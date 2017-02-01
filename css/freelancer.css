@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #41d8f2;
   color: white;
 }
 header .container {
@@ -84,8 +84,8 @@ header .intro-text .name {
   display: block;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
-  font-size: 2em;
+  font-weight: 600;
+  font-size: 1.5em;
 }
 header .intro-text .skills {
   font-size: 1.25em;
@@ -104,10 +104,10 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #2C3E50;
+  background-color: #5796d6;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 600;
   border: none;
 }
 .navbar-custom a:focus {
@@ -186,7 +186,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #41d8f2;
   color: white;
 }
 @media (max-width: 767px) {
@@ -302,7 +302,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #2C3E50;
+  background-color: #41d8f2;
 }
 footer .footer-col {
   margin-bottom: 50px;
