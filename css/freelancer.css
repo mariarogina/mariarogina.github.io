@@ -183,7 +183,7 @@ section {
 }
 section h2 {
   margin: 0;
-  font-size: 1em;
+  font-size: 3em;
 }
 section h2:hover {
   color: #8a5a7b;
@@ -505,4 +505,12 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+
+#contact {
+    font-family: Helvetica;
+    color: #917c8b;
+    font-weight: 300;
+    font-size: 1.4em;
 }
