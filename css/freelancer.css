@@ -85,7 +85,7 @@ header .intro-text .name {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 530;
-  font-size: 1.0em;
+  font-size: 0.8em;
 }
 header .intro-text .skills {
   font-size: 1.25em;
@@ -183,7 +183,10 @@ section {
 }
 section h2 {
   margin: 0;
-  font-size: 3em;
+  font-size: 1em;
+}
+section h2:hover {
+  color: #8a5a7b;
 }
 section.success {
   background: #41d8f2;
