@@ -523,6 +523,19 @@ h2#contactme {
     font-size: 3em;
 }
 
+#contactme {
+    font-family: Helvetica;
+    color: #917c8b;
+    font-weight: 300;
+    font-size: 3em;
+}
+
+#contactme:hover {
+    font-family: Helvetica;
+    color: #c23e99;
+    text-decoration: none
+}
+
 h2#contactme:hover {
     font-family: Helvetica;
     color: #c23e99;
