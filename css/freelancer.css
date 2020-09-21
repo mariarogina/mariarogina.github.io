@@ -20,6 +20,7 @@ a:active,
 a.active {
   color: #18BC9C;
   outline: none;
+  underline: none;
 }
 h1,
 h2,
