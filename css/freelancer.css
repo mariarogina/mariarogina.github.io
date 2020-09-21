@@ -515,14 +515,15 @@ fieldset[disabled] .btn-success.active {
     font-size: 1.4em;
 }
 
-a*#contact {
+
+#contactme {
     font-family: Helvetica;
     color: #917c8b;
     font-weight: 300;
     font-size: 1.4em;
 }
 
-a*#contact: hover {
+#contactme: hover {
     font-family: Helvetica;
     color: #c23e99;
 }
