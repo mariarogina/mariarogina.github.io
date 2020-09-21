@@ -20,7 +20,6 @@ a:active,
 a.active {
   color: #18BC9C;
   outline: none;
-  underline: none;
 }
 h1,
 h2,
@@ -529,6 +528,7 @@ h2#contactme {
     color: #917c8b;
     font-weight: 300;
     font-size: 3em;
+    underline: none;
 }
 
 #contactme:hover {
