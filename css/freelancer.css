@@ -516,16 +516,17 @@ fieldset[disabled] .btn-success.active {
 }
 
 
-#contactme {
+h2#contactme {
     font-family: Helvetica;
     color: #917c8b;
     font-weight: 300;
-    font-size: 1.4em;
+    font-size: 3em;
 }
 
 h2#contactme:hover {
     font-family: Helvetica;
     color: #c23e99;
+    text-decoration: none
 }
 
 h2*a {
