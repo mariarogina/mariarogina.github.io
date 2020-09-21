@@ -523,7 +523,7 @@ fieldset[disabled] .btn-success.active {
     font-size: 1.4em;
 }
 
-#contactme:hover {
+h2#contactme:hover {
     font-family: Helvetica;
     color: #c23e99;
 }
